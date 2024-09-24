@@ -1,16 +1,4 @@
-# weather_app2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-24 at 14 21 16](https://github.com/user-attachments/assets/30c64f67-0ce3-4e67-9759-06917b86eb33)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-24 at 14 21 36](https://github.com/user-attachments/assets/fb233dc5-504e-44f4-ba9b-5e4ce7b5511d)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-24 at 14 21 53](https://github.com/user-attachments/assets/ecf70080-4bd3-435b-93ef-2d98313ad69d)
